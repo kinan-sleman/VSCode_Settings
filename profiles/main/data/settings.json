@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.windows": {},
+    "yaml.schemas": {
+        "file:///c%3A/Users/Kinan/.vscode/extensions/atlassian.atlascode-3.0.5/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "redhat.telemetry.enabled": true
+}
