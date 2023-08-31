@@ -48,8 +48,6 @@ enabled:
     uuid: 32aada6b-3cbf-4590-ab56-f2c4423d028f
   - id: codingyu.laravel-goto-view
     uuid: 0b86e0a5-d2ef-48d8-9a1a-73f96e65f26e
-  - id: CoenraadS.bracket-pair-colorizer-2
-    uuid: 5a6e2b21-1d61-4acd-b31b-907f9c23f18a
   - id: cstrap.python-snippets
     uuid: 5c8059d0-7809-4ed2-8f89-690eda5bdea6
   - id: ctf0.laravel-goto-controller
@@ -190,6 +188,8 @@ enabled:
     uuid: 352f2224-5183-4946-bda7-f68d5edbbebd
   - id: PrimaFuture.open-php-html-js-in-browser
     uuid: c1ac69da-f18e-4bcd-a1d0-678a0b3e5e4b
+  - id: PulkitGangwar.nextjs-snippets
+    uuid: cf7acc1f-dea3-4456-9d09-ebff1d01806a
   - id: redhat.vscode-xml
     uuid: 6703768d-d42f-474e-9f6e-5f288d53f6e8
   - id: redhat.vscode-yaml
